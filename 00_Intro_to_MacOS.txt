@@ -1,0 +1,37 @@
+Package Managers
+
+https://brew.sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew install htop
+
+https://www.macports.org
+
+sudo port install htop
+
+Browsers
+
+https://www.mozilla.org/en-US/firefox/mac/
+https://www.google.com/chrome/
+
+Xcode
+
+xcode-select --install
+
+cat /etc/shells
+echo $SHELL
+
+0:00 Introduction
+1:35 Information of your macOS Computer
+2:09 System Preferences
+5:16 Trashcan
+5:46 Download
+6:19 Finder
+5:58 Command Prompt (Terminal)
+11:30 Homebrew
+14:35 macPorts
+20:40 Installed Compilers
+21:29 Xcode IDE
+
+
+
