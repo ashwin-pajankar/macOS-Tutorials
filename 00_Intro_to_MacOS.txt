@@ -21,17 +21,4 @@ xcode-select --install
 cat /etc/shells
 echo $SHELL
 
-0:00 Introduction
-1:35 Information of your macOS Computer
-2:09 System Preferences
-5:16 Trashcan
-5:46 Download
-6:19 Finder
-5:58 Command Prompt (Terminal)
-11:30 Homebrew
-14:35 macPorts
-20:40 Installed Compilers
-21:29 Xcode IDE
-
-
 
